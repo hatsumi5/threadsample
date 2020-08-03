@@ -1,0 +1,15 @@
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.csprojAssemblyReference.cache
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.Form.resources
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.csproj.GenerateResource.cache
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.AssemblyInfoInputs.cache
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.AssemblyInfo.cs
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.csproj.CoreCompileInputs.cache
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.exe
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.deps.json
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.runtimeconfig.json
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.runtimeconfig.dev.json
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.dll
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.pdb
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.dll
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.pdb
+C:\Users\hatsu\source\repos\ThreadProject\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.genruntimeconfig.cache

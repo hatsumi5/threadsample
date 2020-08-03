@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hatsu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hatsu\\.nuget\\packages"
+    ]
+  }
+}
